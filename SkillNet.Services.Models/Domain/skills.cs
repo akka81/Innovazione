@@ -11,7 +11,8 @@ namespace SkillNet.Services.Models.Domain
         Python = 2,
         Javascript = 3,
         Typescript = 4,
-        Angular = 5
+        Angular = 5,
+        SqlServer =6
 
     }
 }
